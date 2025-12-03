@@ -1,2 +1,3 @@
 # python-teoria-ejemplos
-Repositorio para prender python desde cero
+Repositorio para aprender python desde cero
+
